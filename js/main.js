@@ -1,5 +1,5 @@
 var formdata = new FormData();
-formdata.append("type", "Vertical Strip");
+formdata.append("type", "Thick Vertical");
 formdata.append("tags", "sunflowers");
 
 var ajax = new XMLHttpRequest();
